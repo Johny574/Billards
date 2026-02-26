@@ -1,4 +1,4 @@
-# Pool
+# Billards
  
 Small prototype of a pool game.
 
